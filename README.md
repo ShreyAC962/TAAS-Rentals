@@ -4,19 +4,19 @@ TAAS RENTALS - MERN Car Booking System with Stripe Payment Integration
 This is a fully functional Car Booking System built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with integration of the Stripe Payment Gateway. The application allows users to browse available cars, book them, and complete payments using Stripe. It also features user authentication, a protected routes system, and a simple user interface for managing bookings.
 
 Key Features:
-User authentication (login and register)
-
-Car booking system with availability filters
-
-Stripe Payment Gateway integration
-
-Admin functionality to add, edit, and delete cars
-
-Responsive and modern design with car animations
-
-Continuous Integration and Continuous Delivery (CI/CD) pipelines
-
-Deployment on Google Cloud Platform (GCP) using containers.
+   User authentication (login and register)
+   
+   Car booking system with availability filters
+   
+   Stripe Payment Gateway integration
+   
+   Admin functionality to add, edit, and delete cars
+   
+   Responsive and modern design with car animations
+   
+   Continuous Integration and Continuous Delivery (CI/CD) pipelines
+   
+   Deployment on Google Cloud Platform (GCP) using containers.
 
 
 ### Steps to Run the Project
